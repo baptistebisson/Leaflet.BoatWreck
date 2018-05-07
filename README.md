@@ -23,7 +23,7 @@ Leaflet boat wreck is currently extended with the following plugins.
 | Notyf | [https://github.com/caroso1222/notyf](https://github.com/caroso1222/notyf) |
 | Leaflet Markercluster | [https://github.com/Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) |
 
-### Authors
+### Author
 
 - **Baptiste Bisson** - [https://baptiste-bisson.com](https://baptiste-bisson.com)
 
