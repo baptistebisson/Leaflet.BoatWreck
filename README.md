@@ -17,8 +17,16 @@ Leaflet boat wreck is currently extended with the following plugins.
 
 | Plugin | Github |
 | ------ | ------ |
-| Bootstrap 4 | [https://github.com/twbs/bootstrap](Boostrap) |
-| Leaflet 1.3.0 | [https://github.com/Leaflet/Leaflet](Leaflet) |
-| Select2 | [https://github.com/select2/select2](Select2) |
-| Notyf | [https://github.com/caroso1222/notyf](Notyf) |
-| Leaflet Markercluster | [https://github.com/Leaflet/Leaflet.markercluster](Leaflet-markercluster) |
+| Bootstrap 4 | [https://github.com/twbs/bootstrap](https://github.com/twbs/bootstrap) |
+| Leaflet 1.3.0 | [https://github.com/Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) |
+| Select2 | [https://github.com/select2/select2](https://github.com/select2/select2) |
+| Notyf | [https://github.com/caroso1222/notyf](https://github.com/caroso1222/notyf) |
+| Leaflet Markercluster | [https://github.com/Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) |
+
+### Authors
+
+- **Baptiste Bisson** - [https://baptiste-bisson.com](https://baptiste-bisson.com)
+
+#### Informations
+
+Table and column name have been edited. You will mainly need `latitude`, `northOrSouth`, `longitude`, `eastOrWest` to format position if you don't have decimal coordinate. You need the correct format using by leaflet.
