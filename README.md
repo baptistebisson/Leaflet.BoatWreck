@@ -4,6 +4,8 @@
 
 > This project is based on real data of thousand vessels wrecks across the world. The goal was to provide an interactive map where the user can find a vessel based on filters but also on the viewed area.
 
+![Image of Yaktocat](http://baptiste-bisson.com/wp-content/uploads/2019/08/Leaflet-boat-wreck-github.jpg)
+
 ### Features
 - Search a vessel by name and other filters
 - Use a cluster to show a lot of markers with high performance
